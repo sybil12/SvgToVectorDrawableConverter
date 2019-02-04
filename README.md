@@ -1,10 +1,10 @@
-﻿# SVG to VectorDrawable Converter
+# SVG to VectorDrawable Converter
 Batch converter of SVG images to Android VectorDrawable XML resource files.
 
 Put the output XML files into the ‘res/drawable’ directory of your app and reference to them in XML / Java code as to ordinary drawables.
 
 ## [The online version of the converter](http://a-student.github.io/SvgToVectorDrawableConverter.Web/) completely replaced this one.
-Please use that instead. This project is obsolete!
+_Please use that instead. This project is obsolete!_
 
 ### Not supported SVG features
 These SVG elements are not supported by VectorDrawable: **patterns, masks, images,** etc.
